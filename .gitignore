@@ -1,0 +1,56 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+# Obsolete files
+*.swp
+*.lock
+# IntelliJ related
+.idea/
+*.iml
+# VS Code related
+.vscode/
+# macOS
+.DS_Store
+# Android
+android/
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/local.properties
+# iOS
+ios/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/build/
+# Web
+web/.dart_tool/
+web/build/
+web/
+# Linux
+linux/
+linux/flutter/ephemeral/
+linux/build/
+# Windows
+windows/flutter/ephemeral/
+windows/build/
+windows/
+# Fuchsia
+fuchsia/.dart_tool/
+fuchsia/build/
+# macOS
+/macos
+# Coverage
+coverage/
+# Crashlytics
+*.symbols
+# Other
+*.log
